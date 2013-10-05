@@ -1,4 +1,4 @@
-//latihan variabel
+//latihan variabe
 package latihan01.sesi02.bin;
 
 public class latvariabel2 {
@@ -30,7 +30,7 @@ public class latvariabel2 {
 		     int v=12;
 			 System.out.println("Nilai V adalah " +v);
 			 //variabel v tidak boleh dihapus karena masih dipakai dan masih berada didalam scope
-			 short d=15; // variabel d boleh di hapus dibaris 22, karena life timenya sudah habis
+			 short d=15; // variabel d boleh di hapus dibaris 23, karena life timenya sudah habis
 			 System.out.println("D adalah "+d); // variabel d boleh di hapus di baris 22
 			 }
 		}
